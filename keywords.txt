@@ -1,0 +1,4 @@
+rgbled	KEYWORD1
+
+out	KEYWORD2
+preset	KEYWORD2

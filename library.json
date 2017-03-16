@@ -1,0 +1,20 @@
+{
+"name": "rgbled",
+"frameworks": "Arduino",
+"keywords": "RGB, LED",
+"description": "Implement a binary dice",
+"authors":
+[
+    {
+        "name": "Marcus.Huber",
+        "email": "marcus.huber@elektronikschule.de",
+        "url": "www.nervnet.de",
+        "maintainer": true
+	}
+],
+"repository":
+{
+    "type": "git",
+    "url": "https://github.com/m4hu/rgbled"
+}
+}
